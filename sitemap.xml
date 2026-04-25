@@ -2,4 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ksbankruptcy.org/</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://ksbankruptcy.org/stats.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://ksbankruptcy.org/judges/</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://ksbankruptcy.org/judges/dale-l-somers/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://ksbankruptcy.org/judges/janice-miller-karlin/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://ksbankruptcy.org/judges/mitchell-l-herren/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://ksbankruptcy.org/judges/robert-d-berger/</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://ksbankruptcy.org/judges/robert-e-nugent-3/</loc><changefreq>monthly</changefreq></url>
 </urlset>
